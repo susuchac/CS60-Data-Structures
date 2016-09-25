@@ -1,3 +1,4 @@
+// Programmers: Susie Chac & Jonathan Hoeck
 
 #include "Dispatcher.h"
 #include "Graph.h"

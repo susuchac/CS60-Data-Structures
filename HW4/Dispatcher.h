@@ -1,3 +1,4 @@
+// Programmers: Susie Chac & Jonathan Hoeck
 
 //#pragma once
 
