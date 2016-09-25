@@ -1,4 +1,4 @@
-// Programmer: Susie Chac (912004424)
+// Programmer: Susie Chac 
 // Course: ECS 60
 // Date: 08/26/2016
 // Objective: This program builds a maze given command line
